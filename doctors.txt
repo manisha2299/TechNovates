@@ -1,0 +1,11 @@
+1.Dr.Sangumani Jeyaram -9876654321 Area:vilangudi
+2.Dr.Shridharn Perumal -8765432131 Area:kk nagar
+3.Dr.Vani N            -9123456278 Area:Arapalayam
+4.Dr.Anand Palani      -9806723872 Area:Keelavasal
+5.Dr. A C Arun         -9812093992 Area:narimedu
+6.Dr. M Paul Sudhakar  -9012093562 Area:Periyar
+7.Dr.O R Kumaran       -9916793672 Area:Ponmeni
+8.Dr.A.Kannan          -7212093672 Area:Thirunagar
+9.Dr.R M Manikandan    -8812093672 Area:Tappakulam
+
+
